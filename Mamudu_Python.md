@@ -1,10 +1,11 @@
-Unit 4: Repetition and Loops in Python
+Unit 4: # Repetition and Loops in Python
 
-Rationale: Iterations and Loops are essential for learning tools for any algorithm. I would like my students to learn about while loops, iteration and for loops in this unit.
+# Rationale: 
+Iterations and Loops are essential for learning tools for any algorithm. I would like my students to learn about while loops, iteration and for loops in this unit.
 The unit will be covered as the fourth unit when students learned about variables, basic calculations, sequencing and selection (if, if-else, else-if statements in Python.
 
 4.1 Loops
-Introduction
+# Introduction
 In this lesson, students learn about loops. 
 The students will:
 Be able to define and code while loops and loop control variables 
@@ -22,7 +23,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3B-AP-14
 
 4.2 Count Variables
-Introduction
+# Introduction
 This lesson builds on students’ knowledge of loops, and introduces count variables, which help keep track of how many times a loop has run.
 The students will:
 Be able to define initializing 
@@ -46,7 +47,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-18
 
 4.3 Two Ways to End a Loop
-Introduction
+# Introduction
 This lesson introduces two ways to end a loop: using a count variable to run a loop a specific number of times, and using user input. 
 The students will:
 Be able to end loops using count variables and user input
@@ -64,7 +65,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-DA-12
 
 4.4 Data Revisited
-Introduction
+# Introduction
 This lesson uses recently learned techniques to harness various forms of data.
 The students will:
 Be able to understand and create the algorithms behind the max and min function
@@ -79,12 +80,13 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-18
 
 4.5 Review Loops
+# Introduction
 As we learned earlier in this unit, a loop is a programming command used to repeat code. There are two basic types of loops: a user-controlled loop and a count loop.
 A user-controlled loop asks the user to input information until a test condition is met. The user may enter one piece of information; they might enter thousands of pieces of information. The number of times a user-controlled loop will repeat is variable and unknown when the loop begins running.
 A count loop uses a count variable to count the number of times the loop will repeat. This count variable is also known as the loop control variable. The number of times a count loop will repeat is known before the loop even begins running.
  
 4.6 Range Function
-Introduction
+# Introduction
 This lesson introduces a new function, the range function, which returns a set of numbers based on the parameters provided.
 The students will:
 Be able to define and utilize the range function using 1, 2, or 3 parameters
@@ -101,7 +103,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-21
 
 4.7 For Loops
-Introduction
+# Introduction
 This lesson introduces the for loop, which is a type of count loop that uses the range function to set the value of the loop control variable. 
 The students will:
 Be able to define and code for loops
@@ -119,7 +121,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-18
 
 4.8 Counting by Other Than 1
-Introduction
+# Introduction
 This lesson explores how a for loop uses parameters to count by numbers other than 1. 
 The students will:
 Code for loops with control variables that increase or decrease by amounts other than 1
@@ -137,7 +139,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-18
  
 4.9 Summing
-Introduction
+# Introduction
 In this lesson, students will learn about summing using a for loop. 
 The students will:
 Be able to use a for loop with a sum variable to sum a set of variables
@@ -155,7 +157,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-18
 
 4.10 Review of Algorithms and Tracing
-Introduction
+# Introduction
 This lesson recalls the lesson on algorithms and code tracing from Unit 3.
 The students will:
 Be able to define algorithms and code tracing
@@ -173,7 +175,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-CS-03
 
 4.11 Modeling and Simulation
-Introduction
+# Introduction
 In this lesson, students learn how computer models and computer simulations can help predict and test real-world situations. 
 The students will:
 Be able to define computer models and simulations and explain why these are used
@@ -191,7 +193,7 @@ Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-17
 
 4.12 Test 
-Test Review
+# Test Review
 Unit 4 Test Review (pdf)
 Unit 4 Test Review Solutions (pdf) 
 Online Test
@@ -201,11 +203,13 @@ Alternative Test
 For each online test, there is an alternative, paper-based test that you can use as additional prep, a makeup test, or as the official test that you proctor offline. If you do use this alternative as the official test, just be sure to manually input your students’ scores into the Gradebook.
   
 4.13 Performance Task
-Examine Sample Solution in Python Tutor
+# Examine Sample Solution in Python Tutor
 Before helping students with this unit assignment, you may find it valuable to examine the sample solution below and visualize it for yourself. Python Tutor is an extremely helpful website that provides a step-by-step walkthrough of each line of code that you enter. Try entering and running the solution below in Python Tutor's Visualization Mode to see how each line of code produces output and affects the program.
+
 Sample Solutions
-Question 1
-n = int(input("How many numbers do you need to check? " ))
+# Question 1
+
+`/ n = int(input("How many numbers do you need to check? " ))
 even = 0
 odd = 0
  
@@ -220,3 +224,4 @@ for i in range (1, n + 1):
  
 print("You entered " + str(even) + " even number(s).")
 print("You entered " + str(odd) + " odd number(s).")
+/`
