@@ -10,8 +10,8 @@ The unit will be covered as the fourth unit when students learned about variable
 ---
 
 ## Motivation for Unit
-Upon successful completion of this lesson, students will be able to:
-Define and code for loops, while loops and loop control variables.
+Upon successful completion of this lesson, students will be able to define and code for loops, while loops and variable control loops.
+
 ---
 
 ## Standards Referenced
