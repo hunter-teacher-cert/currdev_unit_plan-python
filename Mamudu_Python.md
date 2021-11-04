@@ -1,10 +1,39 @@
-Unit 4: # Repetition and Loops in Python
+# UNIT PLAN NAME: Unit 4: # Repetition and Loops in Python
+by Mamudu Wally
 
-# Rationale: 
+-----
+
+## General Overview
 Iterations and Loops are essential for learning tools for any algorithm. I would like my students to learn about while loops, iteration and for loops in this unit.
 The unit will be covered as the fourth unit when students learned about variables, basic calculations, sequencing and selection (if, if-else, else-if statements) in Python.
 
+---
+
+## Motivation for Unit
+Upon successful completion of this lesson, students will be able to:
+Define and code for loops, while loops and loop control variables.
+---
+
+## Standards Referenced
+This lesson adheres to the following CSTA Standards: 3B-AP-14
+
+---
+
+## Tools Used
+This course is taught using Python. Python is a general-purpose programming language great for beginners. It is most praised for its elegant syntax and readable code, and it's quite powerful. Python is used by many large organizations, including Google and NASA, to do just about everything: including building apps, analyzing data, and system administration. Python will be the programming language that you use in both the Project STEM programming environment and in EarSketch.
+
+---
+
+## Resources
+Introduction to Computer Science
+
+---
+
 ## Lessons
+Total lenght: 3 Weeks
+
+(list each lesson with main topic(s))
+
 4.1 Loops
 # Introduction
 In this lesson, students learn about loops. 
@@ -192,6 +221,9 @@ Modeling and simulation is a staple in all areas. Some reasons to use simulation
 If you'd like to customize the lesson slides, click here.
 Curricular Standards
 This lesson adheres to the following CSTA Standards: 3A-AP-17
+
+## Assesments
+(list summative and/or formative assessments used)
 
 4.12 Test 
 # Test Review
