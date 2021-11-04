@@ -2,8 +2,9 @@ Unit 4: # Repetition and Loops in Python
 
 # Rationale: 
 Iterations and Loops are essential for learning tools for any algorithm. I would like my students to learn about while loops, iteration and for loops in this unit.
-The unit will be covered as the fourth unit when students learned about variables, basic calculations, sequencing and selection (if, if-else, else-if statements in Python.
+The unit will be covered as the fourth unit when students learned about variables, basic calculations, sequencing and selection (if, if-else, else-if statements) in Python.
 
+## Lessons
 4.1 Loops
 # Introduction
 In this lesson, students learn about loops. 
