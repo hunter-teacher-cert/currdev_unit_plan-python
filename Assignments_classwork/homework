@@ -2,15 +2,10 @@
 Determine what is printed by the following code.
 
 x ⬅ 13
-
 REPEAT UNTIL (x < 1)
-
 {
-
 	x ⬅ x - 4
-  
 }
-
 DISPLAY(x)
 
 Write what is printed. For an infinite loop, click .
