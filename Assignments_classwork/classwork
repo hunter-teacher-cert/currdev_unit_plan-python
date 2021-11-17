@@ -1,1 +1,10 @@
+Write a program that uses a while loop to calculate and print the multiples of 3 from 3 to 21. Your program should print each number on a separate line.
 
+Expected Output
+3 
+6
+9
+12
+15
+18
+21
