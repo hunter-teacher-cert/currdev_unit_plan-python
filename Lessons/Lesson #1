@@ -16,85 +16,8 @@ If you'd like to customize the lesson slides, click here.
 Curricular Standards
 This lesson adheres to the following CSTA Standards: 3B-AP-14
 
-4.2 Count Variables
-# Introduction
-This lesson builds on students’ knowledge of loops, and introduces count variables, which help keep track of how many times a loop has run.
-The students will:
-Be able to define initializing 
-Be able to define and code the count and sum variables
-Components:
-Video Lesson
-Lesson Practice
-Code Practice (2)
-What to Emphasize:
-A count variable must be initialized before using it throughout the program. Most other variables are initialized or set when we get the input from the user, but a count variable is not a user input, so we must initialize it ourselves.
-Whenever you are altering a variable, like sum or count, by building off of its current value, the variable appears on both sides of the assignment operator. The alteration to the variable is done on the right side.
-Examples:
-count = count - 1
-sum = sum + number
-answer = answer / 4
-duplicate = duplicate * 2
-Additional Notes:
-Counting and summing are very common in programs, so instead of having to use the syntax mentioned above to edit a variables current value there is something called shorthand notation. We can instead use something like this: count += 1 or sum += number. Whenever a math symbol appears right before the assignment operator, Python knows to take the variable on the left and perform the operation with the variable on the right and then assigns it back to the variable on the left. 
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-18
 
-4.3 Two Ways to End a Loop
-# Introduction
-This lesson introduces two ways to end a loop: using a count variable to run a loop a specific number of times, and using user input. 
-The students will:
-Be able to end loops using count variables and user input
-Be able to state when to use them
-Components:
-Video Lesson
-Lesson Practice
-Code Practice (2)
-What to Emphasize:
-Just like when using strings in my control expression, or a user input variable, any variable, including the count variable must change inside the loop in order for the loop to eventually end.
-A while loop can run an indefinite amount of times by gathering user input or it can run a set amount of times by controlling it with a count variable.
-Additional Comments:
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-DA-12
 
-4.4 Data Revisited
-# Introduction
-This lesson uses recently learned techniques to harness various forms of data.
-The students will:
-Be able to understand and create the algorithms behind the max and min function
-Components:
-Video Lesson
-What to Emphasize:
-Whenever you get unexpected outputs for your program, feel free to use the Python Tutor Visualization Mode to help step through the program. Click here to access Python Tutor.
-Additional Notes:
-Notice in the video how the variable “max” appears in a dark blue color. Just like with other keywords in Python, print, while, int, input, etc. max is also a keyword. A keyword is a word that is reserved by a program because the word has a special meaning. Python anticipates when you use the word “max” that you will be using the max function - max() - so it changes the color of the word to help it stand out to the programmer. Normally in these instances, you would want to use another variable. What happens if you try to use the words print or if as variables?
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-18
-
-4.5 Review Loops
-# Introduction
-As we learned earlier in this unit, a loop is a programming command used to repeat code. There are two basic types of loops: a user-controlled loop and a count loop.
-A user-controlled loop asks the user to input information until a test condition is met. The user may enter one piece of information; they might enter thousands of pieces of information. The number of times a user-controlled loop will repeat is variable and unknown when the loop begins running.
-A count loop uses a count variable to count the number of times the loop will repeat. This count variable is also known as the loop control variable. The number of times a count loop will repeat is known before the loop even begins running.
- 
-4.6 Range Function
-# Introduction
-This lesson introduces a new function, the range function, which returns a set of numbers based on the parameters provided.
-The students will:
-Be able to define and utilize the range function using 1, 2, or 3 parameters
-Components:
-Video Lesson
-Lesson Practice
-What to Emphasize:
-The range function can be used in a for loop in order to determine not only how many times a program will run, but which values will be stored to the i variable. Ex: for i in range(1, 10, 2) would run 5 times, and would store the values of 1, 3, 5, 7, and 9 to i each time through the loop.
-Range can be used to count up, count down and to count by different amounts besides 1 at a time.
-Additional Notes:
-Although you will frequently see the range function used with a for loop, there are other applications of the range function as well.
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-21
 
 4.7 For Loops
 # Introduction
