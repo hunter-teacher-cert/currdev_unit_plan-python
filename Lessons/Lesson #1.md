@@ -19,59 +19,7 @@ This lesson adheres to the following CSTA Standards: 3B-AP-14
 
 
 
-4.7 For Loops
-# Introduction
-This lesson introduces the for loop, which is a type of count loop that uses the range function to set the value of the loop control variable. 
-The students will:
-Be able to define and code for loops
-Learn when to use a for loop rather than a while loop
-Components:
-Video Lesson
-Lesson Practice
-Code Practice (2)
-What to Emphasize:
-For loops are used only when you know exactly how many times you want the loop to run.
-Additional Notes:
-Having students create a while AND a for loop that do the same thing can be helpful. Seeing them side-by-side helps to show how each can use a count variable, but in slightly different ways.
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-18
-
-4.8 Counting by Other Than 1
-# Introduction
-This lesson explores how a for loop uses parameters to count by numbers other than 1. 
-The students will:
-Code for loops with control variables that increase or decrease by amounts other than 1
-Components:
-Video Lesson
-Lesson Practice
-Code Practice (3)
-What to Emphasize:
-Although a for loop will run a set amount of times, you are still allowed to get user input inside of the loop.
-Typically a for loop looks neater in a program because it requires a few less lines of code.
-Additional Notes:
-A for loop in other languages like C++ or Javascript look slightly different: for( i = 0; i < 10; i + 2). Even though this looks different, the parts of the for loop are the same. There is a starting point (i = 0), and ending point (i < 10) and how we count (i+2).
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-18
- 
-4.9 Summing
-# Introduction
-In this lesson, students will learn about summing using a for loop. 
-The students will:
-Be able to use a for loop with a sum variable to sum a set of variables
-Components:
-Video Lesson
-Lesson Practice
-Code Practice (4)
-What to Emphasize:
-The order of your code is very important inside of a loop. If you find that the output is off a little, but the code looks correct, trace through the code and you may see that some lines of code just need to be switched or moved around.
-When using a sum variable, it normally is initialized to 0 before the loop begins. If you do not first initialize it as something, how can you add to it?
-Additional Notes:
-A variable is initialized whenever it is first assigned a value. However, you cannot use a variable on the right side of an assignment without it first being assigned a value. Ex: x = input(“Name: “) is fine to use even if x is not yet defined, because it is on the left side of the assignment. Ex: x = 4 * r is not okay if r has not yet been initialized - how can I multiply by something I do not know the value of?
-If you'd like to customize the lesson slides, click here.
-Curricular Standards
-This lesson adheres to the following CSTA Standards: 3A-AP-18
+### to be moved!!!
 
 4.10 Review of Algorithms and Tracing
 # Introduction
