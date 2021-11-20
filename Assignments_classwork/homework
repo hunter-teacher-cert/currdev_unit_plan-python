@@ -8,4 +8,4 @@ REPEAT UNTIL (x < 1)
 }
 DISPLAY(x)
 
-Write what is printed. For an infinite loop, click .
+Write what is printed. For an infinite loop, write "infinite loop". .
