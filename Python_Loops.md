@@ -30,7 +30,7 @@ Introduction to Computer Science
 ---
 
 ## Lessons
-Total lenght: 3 Weeks
+Total lenght: 2 Weeks
 
 (list each lesson with main topic(s))
 
