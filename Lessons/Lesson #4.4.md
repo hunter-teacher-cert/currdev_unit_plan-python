@@ -21,6 +21,7 @@ smallest = min(a,b,c)  # This stores 2 to the variable smallest
 largest = max(a,b,c)  # This stores 5 to the variable largest
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+
 We've been using functions all along, but have been calling them commands.
 
 Functions are called by their name and can be sent information (in this case, the set of numbers that the program should find the minimum or maximum of) in between in the parentheses. These inputs entered between the parentheses, separated by commas, are parameters.
