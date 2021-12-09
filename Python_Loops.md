@@ -32,8 +32,20 @@ Introduction to Computer Science
 ## Lessons
 Total lenght: 2 Weeks
 
-(list each lesson with main topic(s))
+Unit 4: Repetition and Loops
 
+Lesson 1: Loops
+Lesson 2: Count Variables
+Lesson 3: Two Ways to End a Loop
+Lesson 4: Data Revisited
+Lesson 5: Review - Looping
+Lesson 6: Range Function
+Lesson 7: For Loops
+Lesson 8: Counting by Other Than 1
+Lesson 9: Summing
+Lesson 10: Review of Algorithms and Tracing
+
+Performance Task: Modeling and Simulation
 
 
 
