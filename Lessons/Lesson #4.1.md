@@ -1,4 +1,6 @@
 # 4.1 Loops
+# Introduction
+In this lesson, students learn about loops. 
 
 # Learning Target: 
 
