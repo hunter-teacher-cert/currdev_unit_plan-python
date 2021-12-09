@@ -46,6 +46,7 @@ print("Total: " + str(sum))
 
 The loop will continue summing numbers until the user has entered -1, at which point the loop will end.
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Just like when using strings in my control expression, or a user input variable, any variable, including the count variable must change inside the loop in order for the loop to eventually end.
 A while loop can run an indefinite amount of times by gathering user input or it can run a set amount of times by controlling it with a count variable.
