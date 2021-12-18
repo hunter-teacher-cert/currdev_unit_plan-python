@@ -10,6 +10,8 @@ The students will be able to understand and create the algorithms behind the max
 ## Lesson Activities
 min and max are functions in Python that can find the minimum or maximum of a list of numbers.
 
+# Practice Code Example
+
 a = 5
 
 b = 2
