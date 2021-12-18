@@ -1,4 +1,4 @@
-# 4.4 Data Revisited
+# 4.4 Min & Max Data
 # Introduction
 This lesson uses recently learned techniques max and min, etc functions to harness various forms of data.
 
