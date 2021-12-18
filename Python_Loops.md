@@ -14,8 +14,7 @@ Upon successful completion of this lesson, students will be able to define and c
 
 ---
 
-## Standards Referenced
-This lesson adheres to the following CSTA Standards: 3B-AP-14
+## NYS CS K - 12 Standards Referenced:
 
 4-6.CT.4- Decompose a problem into smaller named tasks, some of which can themselves be decomposed into smaller steps.
 
