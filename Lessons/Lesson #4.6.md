@@ -53,7 +53,7 @@ range (x, y, z)
 
 ● Returns: [9, 7, 5, 3, 1]
 
->>>
+>>>.
 
 The range function can be used in a for loop in order to determine not only how many times a program will run, but which values will be stored to the i variable. Ex: for i in range(1, 10, 2) would run 5 times, and would store the values of 1, 3, 5, 7, and 9 to i each time through the loop.
 
